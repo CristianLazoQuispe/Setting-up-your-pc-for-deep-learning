@@ -83,6 +83,9 @@
     $ pip install filterpy
     $ pip install face-recognition
 
+## Install tensorrt
+    
+    - https://medium.com/@ardianumam/installing-tensorrt-in-ubuntu-dekstop-1c7307e1dcf6
 
 
 ## Install Vivaldi
