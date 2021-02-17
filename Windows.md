@@ -16,3 +16,7 @@ Install python sheel:
 
   "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
   The reason is that, in build command line integrations like visual studio code, you need to set the command line policies by your self. By setting the above configurations, the visual studio code will do that for you.
+
+Install git extensions
+
+  https://sourceforge.net/projects/gitextensions/
