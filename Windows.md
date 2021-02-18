@@ -20,3 +20,10 @@ Install python sheel:
 Install git extensions
 
   https://sourceforge.net/projects/gitextensions/
+  
+  
+ How to install g++ in Windows
+ 
+  http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/
+ 
+  https://code.visualstudio.com/docs/cpp/config-mingw
