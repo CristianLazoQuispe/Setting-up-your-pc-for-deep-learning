@@ -12,6 +12,13 @@
     $ virtualenv --python=python3.6 tf14 --system-site-packages
     $ source tf14/bin/activate 
     $ pip install --upgrade pip
+    
+    # permission denied 
+    
+    https://stackoverflow.com/questions/19471972/how-to-avoid-permission-denied-when-using-pip-with-virtualenv
+    $ sudo chod -R 777 path/to/virtuaelenv/
+
+
 
 ### Install Tensorflow-gpu
 
