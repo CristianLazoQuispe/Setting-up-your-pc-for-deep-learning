@@ -92,8 +92,13 @@
     $ pip install face-recognition
 
 ## Install tensorrt
+
     - https://hdpoorna.wordpress.com/2018/08/24/set-up-tensorrt4-for-tensorflow-1-8-on-ubuntu-16-04-guide/
     - https://medium.com/@ardianumam/installing-tensorrt-in-ubuntu-dekstop-1c7307e1dcf6
+
+## Install  xgboost, lightgbm and catboost
+
+    - https://leandeep.com/installer-xgboost-lightgbm-et-catboost-sur-ubuntu-18.04/
 
 
 ## Install Vivaldi
