@@ -11,6 +11,7 @@
     $ sudo apt-get install python-virtualenv
     $ virtualenv --python=python3.6 tf14 
     $ virtualenv --python=python3.6 tf15 --system-site-packages
+    $ sudo python3.7 -m venv rimac_venv37
     $ source tf14/bin/activate 
     $ pip install --upgrade pip
     
