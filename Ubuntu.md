@@ -1,10 +1,17 @@
 # Prepare your compure on Ubuntu 18.04
 
+## Install CUDA drivers
+
+    - https://www.tensorflow.org/install/gpu?hl=es-419
+
+
 ## Install CUDA CNN tensorflow
 
     - https://medium.com/analytics-vidhya/how-to-set-up-tensorflow-gpu-on-ubuntu-18-04-lts-7a09ffd5f30f
 
-    - optional: https://xiaoyanzhuo.github.io/2019/11/04/install-nvidia-driver-cuda-cudnn-tensorflow-gpu.html
+    - optional : https://xiaoyanzhuo.github.io/2019/11/04/install-nvidia-driver-cuda-cudnn-tensorflow-gpu.html
+    - optional : https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1
+    
 
 ### Virtual enviroment
 
