@@ -36,12 +36,25 @@
     - Some issues :  
         https://github.com/tensorflow/tensorflow/issues/21719
         https://www.tensorflow.org/install/pip?hl=es-419
+        
+        
+### Install Torch-gpu
+
+    - https://pytorch.org/get-started/previous-versions/
+    $ pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+    $ pip install torchtext==0.9.0
+    
+
 ### Test installation of tensorflow with this script
 
     - https://github.com/redsriracha/tensorflow-gpu-test.git
     
     $ python3 run.py
 
+### Test installation of torch with this script
+    
+    $ python3 test_torch.py
+    
 ### Install dlib
 
     - https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/
