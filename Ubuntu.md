@@ -11,13 +11,22 @@
 
     - optional : https://xiaoyanzhuo.github.io/2019/11/04/install-nvidia-driver-cuda-cudnn-tensorflow-gpu.html
     - optional : https://medium.com/analytics-vidhya/install-cuda-11-2-cudnn-8-1-0-and-python-3-9-on-rtx3090-for-deep-learning-fcf96c95f7a1
+
+
+## Install python 3.7
     
+    $ sudo apt-get update
+    $ sudo apt install software-properties-common
+    $ sudo add-apt-repository ppa:deadsnakes/ppa
+    $ sudo apt install python3.7
+    $ python3.7 --version
+
 
 ### Virtual enviroment
 
-    $ sudo apt-get install python-virtualenv
-    $ virtualenv --python=python3.6 tf14 
-    $ virtualenv --python=python3.6 tf15 --system-site-packages
+    $ sudo apt install python3.7-venv
+    $ python3.7 -m venv env37
+    $ source env37/bin/activate
     $ sudo python3.7 -m venv rimac_venv37
     $ source tf14/bin/activate 
     $ pip install --upgrade pip
