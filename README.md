@@ -1,2 +1,2 @@
-# PreparateUbuntu18.04
+#Setting up your pc for deep learning
 Install drivers and libraries
